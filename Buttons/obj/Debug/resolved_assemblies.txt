@@ -1,0 +1,8 @@
+C:\Users\Ondra\Documents\Projects\Buttons\Buttons\obj\Debug\assemblies\Buttons.dll
+C:\Users\Ondra\Documents\Projects\Buttons\Buttons\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Ondra\Documents\Projects\Buttons\Buttons\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Ondra\Documents\Projects\Buttons\Buttons\obj\Debug\assemblies\System.Core.dll
+C:\Users\Ondra\Documents\Projects\Buttons\Buttons\obj\Debug\assemblies\System.dll
+C:\Users\Ondra\Documents\Projects\Buttons\Buttons\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Ondra\Documents\Projects\Buttons\Buttons\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Ondra\Documents\Projects\Buttons\Buttons\obj\Debug\assemblies\System.ServiceModel.Internals.dll

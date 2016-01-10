@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Buttons\Buttons.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_for_Nexus_S_by_Google" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Buttons\Game.cs">
+    <Files>
+      <File FileName="Buttons\About.cs" Line="1" Column="1" />
+      <File FileName="Buttons\Game.cs" Line="84" Column="4" />
+      <File FileName="Buttons\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="Buttons\Options.cs" Line="1" Column="1" />
+      <File FileName="Buttons\Classes.cs" Line="1" Column="1" />
+      <File FileName="Buttons\ButtonItem.cs" Line="40" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Buttons AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

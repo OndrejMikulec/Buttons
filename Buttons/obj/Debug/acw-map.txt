@@ -1,0 +1,16 @@
+Buttons.MainActivity, Buttons;md507a32d3366d07e9ec8fd6fcded476b3f.MainActivity
+Buttons.MainActivity, Buttons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md507a32d3366d07e9ec8fd6fcded476b3f.MainActivity
+Buttons.MainActivity;md507a32d3366d07e9ec8fd6fcded476b3f.MainActivity
+buttons.MainActivity;md507a32d3366d07e9ec8fd6fcded476b3f.MainActivity
+Buttons.About, Buttons;md507a32d3366d07e9ec8fd6fcded476b3f.About
+Buttons.About, Buttons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md507a32d3366d07e9ec8fd6fcded476b3f.About
+Buttons.About;md507a32d3366d07e9ec8fd6fcded476b3f.About
+buttons.About;md507a32d3366d07e9ec8fd6fcded476b3f.About
+Buttons.Game, Buttons;md507a32d3366d07e9ec8fd6fcded476b3f.Game
+Buttons.Game, Buttons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md507a32d3366d07e9ec8fd6fcded476b3f.Game
+Buttons.Game;md507a32d3366d07e9ec8fd6fcded476b3f.Game
+buttons.Game;md507a32d3366d07e9ec8fd6fcded476b3f.Game
+Buttons.Options, Buttons;md507a32d3366d07e9ec8fd6fcded476b3f.Options
+Buttons.Options, Buttons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md507a32d3366d07e9ec8fd6fcded476b3f.Options
+Buttons.Options;md507a32d3366d07e9ec8fd6fcded476b3f.Options
+buttons.Options;md507a32d3366d07e9ec8fd6fcded476b3f.Options

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <ProjectGuid>{385CF8A8-995D-422E-ACC8-672736D5F2FB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Buttons</RootNamespace>
+    <AndroidApplication>True</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
+    <AndroidUseLatestPlatformSdk>False</AndroidUseLatestPlatformSdk>
+    <AssemblyName>Buttons</AssemblyName>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <TargetFrameworkVersion>v5.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <AndroidLinkMode>None</AndroidLinkMode>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Mono.Android" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainActivity.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="About.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="Classes.cs" />
+    <Compile Include="Options.cs" />
+    <Compile Include="Resources\Resource.designer.cs" />
+    <Compile Include="ButtonItem.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <None Include="Properties\AndroidManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\Main.axml" />
+    <AndroidResource Include="Resources\values\Strings.xml" />
+    <AndroidResource Include="Resources\drawable-mdpi\icon.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\icon.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\icon.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\icon.png" />
+    <AndroidResource Include="Resources\layout\About.axml" />
+    <AndroidResource Include="Resources\layout\Options.axml" />
+    <AndroidResource Include="Resources\drawable-hdpi\icon.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\Red.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\angry.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\lol.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\smile.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\wow.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\angry.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\lol.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\smile.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\wow.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\angry.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\lol.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\smile.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\wow.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\angry.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\lol.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\smile.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\wow.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\angry.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\lol.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\smile.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\wow.png" />
+    <AndroidResource Include="Resources\values\style.xml" />
+    <AndroidResource Include="Resources\layout\Game.axml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+</Project>

@@ -1,0 +1,1 @@
+<resources><style name="CustomTheme" parent="@android:Theme.NoTitleBar"><item name="android:windowFullscreen">true</item></style></resources>

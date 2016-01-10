@@ -1,0 +1,4 @@
+Buttons.MainActivity;buttons.MainActivity
+Buttons.About;buttons.About
+Buttons.Game;buttons.Game
+Buttons.Options;buttons.Options
